@@ -1,0 +1,6 @@
+[submodule "hardware/reference/vedderb-bldc-hardware"]
+	path = hardware/reference/vedderb-bldc-hardware
+	url = https://github.com/vedderb/bldc-hardware.git
+[submodule "software/reference/skadimoe9-Skripsi-BLDC-Motor-Control"]
+	path = software/reference/skadimoe9-Skripsi-BLDC-Motor-Control
+	url = https://github.com/skadimoe9/Skripsi-BLDC-Motor-Control.git

@@ -1,0 +1,14 @@
+# session/tool state
+.remember/
+.claude/
+
+# KiCad
+*.lck
+~*
+*-backups/
+_autosave-*
+
+# build/tooling
+node_modules/
+__pycache__/
+*.pdf.bak
